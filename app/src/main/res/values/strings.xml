@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News Ninja</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_breaking_news">Breaking News</string>
+    <string name="txt_top_news">Top News</string>
+    <string name="txt_search_news">Search News</string>
+
+    <string name="txt_sign_up">Sign up</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_first_name">First Name</string>
+    <string name="txt_last_name">Last Name</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_register">Click here to register.</string>
+    <string name="txt_user_saved_success">You have sign up successfully!!</string>
+
+    <!-- Errors -->
+    <string name="error_user_incorrect">Username or password is incorrect!!</string>
+    <string name="txt_error">Error</string>
+    <string name="error_username_empty">Please enter username</string>
+    <string name="error_first_name_empty">Please enter first name</string>
+    <string name="error_last_name_empty">Please enter last name</string>
+    <string name="error_password_empty">Please enter password</string>
+    <string name="error_username_not_available">Username not available</string>
+</resources>
